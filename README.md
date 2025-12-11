@@ -1,4 +1,32 @@
+<p align="center">
+  <img src="https://github.com/KRISHexe520/Credit-Risk-Classification-Model/blob/main/images/LoanBanner.png" alt="Credit Risk Banner" width="100%">
+</p>
+
 # 📘 Credit Risk Classification Model  
+<p align="center">
+
+  <!-- Python Version -->
+  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white" />
+
+  <!-- Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-9cf?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Models-green?logo=scikit-learn&logoColor=white" />
+
+  <!-- ML Project Badges -->
+  <img src="https://img.shields.io/badge/Project-Type%3A%20Classification-red" />
+  <img src="https://img.shields.io/badge/Model-Random%20Forest%20%7C%20Logistic%20Regression-brightgreen" />
+  <img src="https://img.shields.io/badge/Dataset-Imbalanced%20Data-critical" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" />
+
+</p>
+
 A Machine Learning Project for Predicting Loan Default Risk  
 
 This project focuses on building a classification model that predicts whether a loan applicant is likely to **default** or not.  
